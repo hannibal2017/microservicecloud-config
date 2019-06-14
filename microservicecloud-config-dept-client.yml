@@ -46,7 +46,7 @@ mybatis:
 
   config-location: classpath:mybatis/mybatis.cfg.xml
 
-  type-aliases-package: com.my.springcloud.entites
+  type-aliases-package: com.atguigu.springcloud.entities
 
   mapper-locations:
 
@@ -124,7 +124,7 @@ mybatis:
 
   config-location: classpath:mybatis/mybatis.cfg.xml
 
-  type-aliases-package: com.my.springcloud.entites
+  type-aliases-package: com.atguigu.springcloud.entities
 
   mapper-locations:
 
